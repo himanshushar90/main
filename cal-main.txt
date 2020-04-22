@@ -13,3 +13,18 @@ Here we will define the cod
 10
 Blocking 10 lines
 '''
+def subtract code to calulator:
+'''
+Here we will define the cod
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Blocking 10 lines
+'''
