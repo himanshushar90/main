@@ -13,3 +13,19 @@ Here we will define the cod
 10
 Blocking 10 lines
 '''
+def add to calulator code on add branch:
+'''
+Here we will define the cod
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Blocking 10 lines
+'''
+
